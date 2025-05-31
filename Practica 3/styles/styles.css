@@ -1,0 +1,8 @@
+.panel{
+    display: none;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 0 4px rgb(rgb(158, 74, 74), rgb(69, 124, 69), rgb(40, 40, 99));
+    animation: fadeIn 0.5s ease;
+}
